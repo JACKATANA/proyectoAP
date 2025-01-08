@@ -1,0 +1,9 @@
+# Python
+*.pyc
+__pycache__/
+
+# Virtual Environment
+# venv/  # Asegúrate de que esta línea esté comentada o eliminada
+
+# pytest cache
+# .pytest_cache/  # Asegúrate de que esta línea esté comentada o eliminada
